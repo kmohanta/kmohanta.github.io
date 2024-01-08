@@ -29,11 +29,11 @@
 
 
 body{ width: 100%;
-		background-color: #6b6b6b;
+		background-color: #f9f9f9;
 		margin: auto;
 }
 a:link {
-  color: white;
+  color: #2980b9;
   text-shadow: 0 0 1px blue;
 }
 a:visited {
@@ -167,14 +167,14 @@ h1{font-family: H-I, cursive;
 	text-align: center;
 	font-weight: normal;
 	text-shadow: 0px 0px 0px whitesmoke;
-	color: black;
+	color: #512b58;
 	margin-right: 3vw;
 }
 h2{
 	font-family: H-II, cursive; 
 	font-size: 30px;
 	text-shadow: 0px 0px 3px whitesmoke;
-	color: black;
+	color: #512b58;
 	text-decoration:underline;
 	text-align:center; 
 }
