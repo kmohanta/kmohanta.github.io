@@ -122,7 +122,7 @@ li a:hover:not(.active) {
 				box-shadow: 0px 0px 10px black;
 				font-family: Impact, Charcoal, sans-serif;
 				font-size: 20px;
-				color: whitesmoke; 
+				color: black; 
 				text-align: left;
 }
 
@@ -166,15 +166,15 @@ h1{font-family: H-I, cursive;
 	font-size: 40px;
 	text-align: center;
 	font-weight: normal;
-	text-shadow: 0px 0px 0px black;
-	color: whitesmoke;
+	text-shadow: 0px 0px 0px whitesmoke;
+	color: black;
 	margin-right: 3vw;
 }
 h2{
 	font-family: H-II, cursive; 
 	font-size: 30px;
-	text-shadow: 0px 0px 3px black;
-	color: whitesmoke;
+	text-shadow: 0px 0px 3px whitesmoke;
+	color: black;
 	text-decoration:underline;
 	text-align:center; 
 }
