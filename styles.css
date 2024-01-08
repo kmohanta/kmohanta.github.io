@@ -29,23 +29,23 @@
 
 
 body{ width: 100%;
-		background-color: #f9f9f9;
+		background-color: #7191b0;
 		margin: auto;
 }
 a:link {
-  color: #2980b9;
-  text-shadow: 0 0 1px blue;
+  color: #030340;
+  text-shadow: 0 0 0 blue;
 }
 a:visited {
-  color: white;
-  text-shadow: 0 0 1px blue;
+  color: #030340;
+  text-shadow: 0 0 0 blue;
 }
 a:hover {
-  color: white;
+  color: #030340;
 }
 a:active {
-  color: white;
-  text-shadow: 0 0 1px blue;
+  color: #030340;
+  text-shadow: 0 0 0 blue;
 }
 
 
@@ -71,10 +71,11 @@ ul {
   	margin: 0;
   	padding: 0;
   	overflow: hidden;
-  	background-color: #111;
+  	background-color: #546c85;
   	font-family: nav, serif;
   	letter-spacing: 2px;
   	z-index: 10;
+    text-shadow: 0 0 2px red;
 }
 
 
@@ -86,13 +87,22 @@ li a {
   padding: 1vw;
   text-decoration: none;
 }
-
+li a:link {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
+li a:visited {
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
 li a:hover:not(.active) {
+  color: white;
   background-color: #333;
 }
 
 .active {
-  background-color: #a83234;
+    color: white;
+  background-color: #7191b0;
 }
 
 * {
@@ -118,11 +128,11 @@ li a:hover:not(.active) {
 }
 #txt-wide{	width:100%;
 				float: left;
-				background-color:   #d9e1e3;
+				background-color: #cfd1e6;
 				box-shadow: 0px 0px 10px black;
 				font-family: Impact, Charcoal, sans-serif;
 				font-size: 20px;
-				color: black; 
+				color: #1c0c01; 
 				text-align: left;
 }
 
@@ -142,10 +152,10 @@ li a:hover:not(.active) {
 
 
 #txt-wide img{ margin: 20px;
-					box-shadow: 0 0 10px blue;
+					box-shadow: 0 0 10px black;
 }
 #txt-wide #hm-dp img{ margin: 0px;
-							box-shadow: 0 0 0 blue;
+							box-shadow: 0 0 0 black;
 }
 
 #email{width:100%; 
@@ -167,18 +177,29 @@ h1{font-family: H-I, cursive;
 	text-align: center;
 	font-weight: normal;
 	text-shadow: 0px 0px 0px whitesmoke;
-	color: #512b58;
+    text-decoration:underline;
+	color: #1c0c01;
 	margin-right: 3vw;
 }
 h2{
 	font-family: H-II, cursive; 
 	font-size: 30px;
 	text-shadow: 0px 0px 3px whitesmoke;
-	color: #512b58;
-	text-decoration:underline;
-	text-align:center; 
+	color: #1c0c01;
+	
+	text-align:left; 
+    margin-left: 3vw;
 }
 
+p{
+    margin: 3vw;
+    font-size: 16px;
+    letter-spacing: 0.5px; 
+    line-height: 1.5;
+    word-spacing: 0.75px;
+    color: #1c0c01;
+
+}
 
 @media screen and (max-width:959px){
 						#wrapper{ width: 100%;
