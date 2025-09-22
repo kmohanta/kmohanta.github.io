@@ -1,0 +1,24 @@
+{
+  "emails": [
+    "k91mohanta [at] gmail.com",
+    "kaushik.mohanta [at] matfyz.cuni.cz"
+  ],
+  "links": [
+    {
+      "name": "MathSciNet",
+      "url": "https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1378824",
+      "class": "mathscinet"
+    },
+    {
+      "name": "Google Scholar",
+      "url": "https://scholar.google.com/citations?hl=en&user=gkSxUBMAAAAJ",
+      "class": "scholar"
+    },
+    {
+      "name": "ResearchGate",
+      "url": "https://www.researchgate.net/profile/Kaushik_Mohanta",
+      "class": "researchgate"
+    }
+  ]
+}
+
