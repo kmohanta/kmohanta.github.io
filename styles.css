@@ -25,14 +25,7 @@ h2 { font-size: calc(18px * var(--phi)); }
 h3 { font-size: calc(18px * 1.2); }
 
 
-/* Golden split layout */
-.golden-split {
-  display: grid;
-  grid-template-columns: 55% 45%;
-  gap: 2rem;
-}
-.left-col { grid-column: 1; }
-.right-col { grid-column: 2; }
+
 
 /* Navbar */
 .custom-navbar { background:#011202;}
@@ -120,6 +113,5 @@ h3 { font-size: calc(18px * 1.2); }
 .journal {color:var(--accent-yellow); font-weight:600;  }
 .paper-title {color:var(--accent-light-blue);}
 .coauthor {color:var(--accent-light-red);}
-
 
 
