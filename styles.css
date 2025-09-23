@@ -108,7 +108,7 @@ h3 { font-size: calc(18px * 1.2); }
 .btn-social:hover { opacity:0.9; }
 
 /* Publications */
-.publication-font { font-family: sans-serif; font-size:18px; line-height:3;}
+.publication-font { font-family: sans-serif; font-size:18px; line-height:1.6;}
 .with { color:red; font-weight:400; font-size:14px;}
 .journal {color:var(--accent-yellow); font-weight:600;  }
 .paper-title {color:var(--accent-light-blue);}
