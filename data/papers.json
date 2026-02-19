@@ -1,10 +1,17 @@
 [
   {
+    "title": "Note on injectivity in second-gradient nonlinear elasticity",
+    "journal": "Nonlinear Analysis",
+    "authors": ["Stanislav Hencl and Kaushik Mohanta"],
+    "year": 2026,
+    "doi": "https://doi.org/10.1016/j.na.2026.114084"
+  },
+  {
     "title": "Fractional Hardy inequalities and capacity density",
     "journal": "Calculus of Variations and Partial Differential Equations",
     "authors": ["Lizaveta Ihnatsyeva and Antti V. Vähäkangas"],
     "year": 2025,
-    "doi": "Lizaveta Ihnatsyeva and Antti V. Vähäkangas"
+    "doi": "https://doi.org/10.1007/s00526-025-02999-3"
   },
     {
     "title": "Classifying Triebel-Lizorkin capacities in metric spaces",
