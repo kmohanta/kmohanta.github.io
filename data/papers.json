@@ -1,8 +1,15 @@
 [
   {
+    "title": "Limits at Infinity for Functions in Fractional Sobolev Spaces",
+    "journal": "Milan Journal of Mathematics",
+    "authors": ["Angha Agarwal and Pekka Koskela"],
+    "year": 2026,
+    "doi": "https://doi.org/10.1007/s00032-026-00444-4"
+  },
+  {
     "title": "Note on injectivity in second-gradient nonlinear elasticity",
     "journal": "Nonlinear Analysis",
-    "authors": ["Stanislav Hencl and Kaushik Mohanta"],
+    "authors": ["Stanislav Hencl"],
     "year": 2026,
     "doi": "https://doi.org/10.1016/j.na.2026.114084"
   },
